@@ -1,0 +1,17 @@
+# Interface e Visualização
+gradio
+plotly
+
+# Processamento de Dados e DB
+pandas
+sqlalchemy
+psycopg2-binary # Para a conexão "postgresql+psycopg2"
+numpy
+
+# Framework de IA e Dependências
+agno
+lancedb       # Para o LanceDb
+openai        # Para o OpenAIChat
+
+# Utilitários
+python-dotenv # Para carregar o .env
